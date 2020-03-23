@@ -11,5 +11,6 @@
 		"codelite",
 		"gmake2",
 		"d",
-		"android",
+		"android-studio",
+		"emscripten",
 	}
